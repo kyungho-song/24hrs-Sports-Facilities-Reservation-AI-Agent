@@ -1,0 +1,36 @@
+{
+  "futsal_schedule": {
+    "2024-10-26": {
+      "15:00": {
+        "isBooked": false,
+        "bookedBy": null
+      },
+      "16:00": {
+        "isBooked": true,
+        "bookedBy": "김철수"
+      },
+      "17:00": {
+        "isBooked": true,
+        "bookedBy": "사용자"
+      },
+      "18:00": {
+        "isBooked": false,
+        "bookedBy": null
+      }
+    },
+    "2024-10-27": {
+      "10:00": {
+        "isBooked": false,
+        "bookedBy": null
+      },
+      "11:00": {
+        "isBooked": false,
+        "bookedBy": null
+      },
+      "12:00": {
+        "isBooked": true,
+        "bookedBy": "박영희"
+      }
+    }
+  }
+}
